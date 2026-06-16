@@ -1,0 +1,13 @@
+{
+  "route": "trasa1",
+  "route_label": "Trasa 1",
+  "steps": 170,
+  "particles": 90,
+  "landmarks": 20,
+  "mean_robot_position_error_m": 0.23194368246993932,
+  "final_robot_position_error_m": 0.5185174213578471,
+  "mean_map_rmse_m": 0.20494861940275522,
+  "final_map_rmse_m": 0.3139354436969393,
+  "mapped_landmarks": 20,
+  "resampling_count": 99
+}
