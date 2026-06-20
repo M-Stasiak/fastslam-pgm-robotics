@@ -1,4 +1,4 @@
-# FastSLAM PGM Robotics
+# FastSLAM PGM Robotics 📍
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.14.3-3776AB?logo=python&logoColor=white)](https://www.python.org/)
